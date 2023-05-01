@@ -1,24 +1,39 @@
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
+import Lawyer from './components/Lawyer';
+import Navbar from './components/Navbar';
+import Case from './components/Case';
+import Logos from './components/Logos';
+import Lawyers2 from './components/Lawyers2';
+import Reviews from './components/Reviews';
+import Answer from './components/Answer';
+import ContactUs from './components/ContactUs';
+import RecentBlogs from './components/RecentBlogs';
+import FooterTop from './components/FooterTop';
+import Footer from './components/Footer';
+import PracticeAreasCards from './components/PracticeAreasCards';
+import Explore from './components/Explore';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    
+    <Navbar />
+    <Lawyer />
+    <Explore />
+    <PracticeAreasCards />
+    <Case />
+    <Logos />
+     <Lawyers2 />
+     <Reviews />
+     <Answer />
+     <ContactUs />
+     <RecentBlogs />
+     <FooterTop />
+     <Footer />
+    </>
   );
 }
 

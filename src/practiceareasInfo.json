@@ -1,0 +1,38 @@
+[
+    {
+        "kartinBasligi" : "Business Law" ,
+        "kartinMetni" : "Be aware of new developments, as laws and rules often change based on the situation.",
+        "kartinShekli" : "https://res.cloudinary.com/ddgakc3nd/image/upload/v1682063434/IMAGE_lrxeki.png",
+        "kartinButonu" : "View More"
+    },
+    {
+        "kartinBasligi" : "Construction Law" ,
+        "kartinMetni" : "Never judge, just listen and advise. Even if your client has made a bad decision in the case.",
+        "kartinShekli" : "https://res.cloudinary.com/ddgakc3nd/image/upload/v1682063434/IMAGE_1_sf2xxp.png",
+        "kartinButonu" : "View More"
+    },
+    {
+        "kartinBasligi" : "Car Accident" ,
+        "kartinMetni" : "Being untruthful will get you nowhere and give you a reputation of the dishonesty in law.",
+        "kartinShekli" : "https://res.cloudinary.com/ddgakc3nd/image/upload/v1682063433/IMAGE_2_bypx9c.png",
+        "kartinButonu" : "View More"
+    },
+    {
+        "kartinBasligi" : "Wrongful Death" ,
+        "kartinMetni" : "Keep yourself up-to-date on your area of law. Be aware of new justice, as laws and rules.",
+        "kartinShekli" : "https://res.cloudinary.com/ddgakc3nd/image/upload/v1682063433/IMAGE_3_hha43f.png",
+        "kartinButonu" : "View More"
+    },
+    {
+        "kartinBasligi" : "Criminal Law" ,
+        "kartinMetni" : "Our attorneys are fully committed to providing you with the support and attention that you deserve.",
+        "kartinShekli" : "https://res.cloudinary.com/ddgakc3nd/image/upload/v1682063433/IMAGE_4_lxye9y.png",
+        "kartinButonu" : "View More"
+    },
+    {
+        "kartinBasligi" : "Family Law",
+        "kartinMetni" : "You may find yourself unable to work or complete work-related responsibilities safely.",
+        "kartinShekli" : "https://res.cloudinary.com/ddgakc3nd/image/upload/v1682063433/IMAGE_5_rqka6v.png",
+        "kartinButonu" : "View More"
+    }
+]

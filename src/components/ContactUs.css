@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&display=swap');
+.contact-us-call, .contact-us{
+    display: flex;
+}
+.contact-us{
+    background-color: #161D27;
+}
+.contact-us-left-side h2{
+    color: #FFFFFF;
+    font-size: 45px;
+    line-height: 58px;
+    font-family: 'Cormorant Garamond', serif;
+    width: 560px;
+}
+.contact-us-left-side p{
+    color: #D7D7D7;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'Outfit', sans-serif;
+    width: 610px;
+    padding-top: 43px;
+    padding-bottom: 37px;
+}
+.contact-us-button {
+    width: 257px;
+    height: 85px;
+    border: 1px solid #D1B06B;
+    background-color: #D1B06B;
+    cursor: pointer;
+    padding: 24px 70px;
+}
+.contact-us-left-side a{
+    font-size: 22px;
+    line-height: 35px;
+    font-family: 'Outfit', sans-serif;
+    color: #1F2732 ;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+}
+.contact-us-bacground p{
+    width: 411px;
+    color: #909090;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'Outfit', sans-serif;
+}
+.contact-us-bacground h2{
+    color: #1F2732;
+    font-size: 42px;
+    line-height: 54px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.contact-us-right-side{
+    background-color: #FFFFFF;
+    padding-top: 85px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.contact-us-right-side-1 {
+     padding: 30px 40px;
+     border: 15px solid #D7D7D7;
+}
+.contact-us {
+    padding: 151px 70px;
+    gap: 102px;
+}
+.contact-us-call-on a{
+    text-decoration: none;
+}
+.contact-us-img {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    background-color: #D1B06B;
+}
+.contact-us-call {
+    gap: 15px;
+}
+.contact-us-call-on h6{
+    color: #1F2732;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+}
+.contact-us-call-on a{
+    color: #1F2732;
+    font-size: 30px;
+    line-height: 42px;
+}

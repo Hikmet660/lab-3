@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&display=swap');
+.meet-the-partners{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+.meet-the-partners h1{
+    color: #161D27;
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+    line-height: 60px;
+}
+.logos{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 160px;
+}
+.logopadding{
+    padding-top: 30px;
+}
+
+@media(max-width:1280px){
+    .meet-the-partners h1{
+       font-size: 43px;
+    }
+}
+@media(max-width:991px){
+    .meet-the-partners h1{
+        font-size: 38px;
+    }
+}
+@media(min-width:770px){
+    .meet-the-partners{
+        gap: 40px;
+    }
+}
+@media(max-width:770px){
+    .meet-the-partners{
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    .meet-the-partners h1{
+        font-size: 33px;
+    }
+}
+@media(max-width:320px){
+    .meet-the-partners h1{
+        text-align: center;
+        max-width: 50%;
+    }
+}

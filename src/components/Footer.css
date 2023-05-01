@@ -1,0 +1,124 @@
+.footerr {
+    padding-left: 50px; 
+    padding-right: 50px;
+    padding-bottom: 109px;
+}
+.footerr-img{
+    padding-top: 130px;
+}
+.footerr{
+    background-color: #161D27;
+}
+.footer1, .footer2, .footer11, .footer22 {
+    display: flex;
+    flex-direction: column;
+}
+.footer-links a{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'Outfit', sans-serif;
+    color: #D7D7D7;
+}
+.footer-call, .footer-email, .footer-links, .footer-links12, .footer-follow{
+    display: flex;
+}
+.footer-h3 h3 {
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFFFFF;
+    font-family: 'Cormorant Garamond', serif;
+}
+.footer-p p{
+    color: #D7D7D7;
+    font-size: 20px;
+    line-height: 48px;
+    font-family: 'Outfit', sans-serif;
+}
+.footer-call p, .footer-email p{
+    color: #D7D7D7;
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+.footer-links{
+
+    padding-top: 93px;
+}
+.footer1{
+    padding-right: 90px;
+}
+.footer-link-1{
+    padding-right: 110px;
+}
+.footer-link-2{
+    padding-right: 181px;
+}
+.footer-link-3{
+    padding-right: 179px;
+}
+.footer-h3{
+    border-top: 1px solid #3B434E;
+    border-bottom: 1px solid #3B434E;
+}
+.footer-h3 h3{
+    margin-top: 21px;
+    margin-bottom: 20px;
+}
+.footer-bottomm a{
+    padding-bottom: 20px;
+}
+.footer-p p{
+    padding-bottom: 40px;
+}
+.footer-top{
+    padding-top: 38px;
+}
+.footer-call-email p{
+    padding-top: 2px;
+    padding-right: 10px;
+}
+.footer-call-email a{
+    text-transform: capitalize;
+}
+.footer-call{
+    padding-bottom: 10px;
+}
+.footer-copyright1 p{
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'Outfit', sans-serif;
+    color: #D7D7D7;
+}
+.footer-copyright1 a{
+    color: #D1B06B;
+    font-size: 22px;
+    line-height: 35px;
+    text-decoration: none;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.footer-follow-p p{
+    color: #D1B06B;
+    font-size: 20px;
+    line-height: 32px;
+}
+.footer-follow-links a, .footer-follow-p p{
+   margin-right: 20px;
+}
+.footer-follow-links {
+    padding-top: 3px;
+}
+.footer-copyright {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #3B434E;
+    border-bottom: 1px solid #3B434E;
+}
+.footer-copyright12 {
+    padding-top: 84px;
+}
+.footer-copyright1, .footer-follow{
+    margin-top: 26px;
+    margin-bottom: 29px;
+}

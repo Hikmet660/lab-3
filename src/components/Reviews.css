@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&display=swap');
+.options p{
+    color: #D7D7D7;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'Outfit', sans-serif;
+}
+.options{
+    background-color: #161D27;
+}
+.options11 p{
+    margin-top: 30px;
+}
+.private-employee-2, .business-sector-1, .bus-driver-2, .private-engineer-1{
+    display: flex;
+    gap: 22px;
+}
+.options h3{
+    color: #FFFFFF;
+    font-family: 'Cormorant Garamond', serif;
+    padding-top: 10px;
+}
+.reviews h1{
+    font-size: 45px;
+    line-height: 54px;
+    color: #FFFFFF;
+    padding-bottom: 11px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.reviews{
+    text-align: center;
+    padding-top: 124px;
+}
+.options-1{
+    padding-top: 100px;
+    padding-bottom: 212px;
+}
+.private-employee-2, .bus-driver-2 {
+    padding-top: 20px;
+}
+@media(min-width:1280px){
+    .private-employee-1, .bus-driver-1{
+        padding: 10px 35px 10px 0;
+        background-color: #2E3947;
+        border-radius: 1px 1px 1px 40px;
+    }
+    .business-sector-2, .private-engineer-2{
+        padding: 10px 35px 10px 0;
+        background-color: #2E3947;
+        border-radius: 40px 1px 1px 1px;
+    }
+    .options-1{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+        grid-gap: 50px;
+    }
+   .options11{
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 35px;
+    }
+    .options{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .options-h-p h3{
+        font-size: 26px;
+    }
+}
+@media(min-width:1440px){
+    .options11{
+        padding: 45px 45px 60px;
+    }
+    .options-h-p h3{
+        font-size: 30px;
+    }
+}
+@media(max-width:1280px){
+    .options{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .private-employee, .bus-driver{
+        margin-bottom: 30px;
+        padding: 40px 40px 40px 50px;
+        background-color: #2E3947;
+    }
+    .business-sector, .private-engineer{
+        margin-bottom: 30px;
+        padding: 40px 40px 40px 50px;
+        background-color: #2E3947;
+    }
+    .options-img-h-p{
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:991px){
+    .options p{
+        font-size: 18px;
+    }
+    .reviews h1{
+        font-size: 36px;
+    }
+}
+@media(max-width:770px){
+    .reviews h1{
+        font-size: 32px;
+    }
+}
+@media(max-width:375px){
+    .options{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .private-employee, .bus-driver, .private-engineer, .business-sector {
+        padding: 20px;
+    }
+    .options-img img{
+        width: 90%;
+    }
+
+}
